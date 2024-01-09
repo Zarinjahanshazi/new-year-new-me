@@ -387,7 +387,7 @@ body{
     width: 800px;
 }
 
-.awesome-section1{
+.awesome-section1:hover{
     margin-bottom: 24px;
     display: flex;
     justify-content: space-between;
